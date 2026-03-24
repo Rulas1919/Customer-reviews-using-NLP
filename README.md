@@ -61,11 +61,5 @@ This project helps:
 
 ---
 
-## 🚀 How to Run
-
-pip install pandas numpy scikit-learn nltk
-
----
-
 ## 👤 Author
 Raúl Gastelum
